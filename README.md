@@ -7,5 +7,3 @@ This is a third change to the file
 Git is a version control system that prevents us from having the "final doc" problem.
 
 One additional line to check diff command
-
-One change for remembering
